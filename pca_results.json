@@ -1,0 +1,1 @@
+[{"n_components": 100, "accuracy": 0.8004}, {"n_components": 300, "accuracy": 0.8284}, {"n_components": 500, "accuracy": 0.8228}, {"n_components": 800, "accuracy": 0.8264}, {"n_components": 1000, "accuracy": 0.8292}]
